@@ -1,0 +1,15 @@
+{
+  "id": "PF2e-more-vehicles",
+  "title": "PF2E More Vehicles!",
+  "description": "A module intending to change the basic layout of PF2e's vehicle sheet.",
+  "authors": [
+    {
+      "name": "Jarjingbing"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  }
+}
